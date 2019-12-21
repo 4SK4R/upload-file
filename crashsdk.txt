@@ -1,0 +1,1 @@
+##{"pluginName":"crashsdk","pluginVersionName":"3.0.2","pluginVersionCode":302,"pluginBuildDate":"2018-08-20 10:10:30","pluginBuildCommitId":"a118e93","appPackageName":"com.bbk.account","appVersionName":"5.2.0.0","appVersionCode":"5200","clientDate":"2019-08-27 01:10:36","pluginBaseVersionName":"1.1.1"}
